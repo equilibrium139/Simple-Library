@@ -1,0 +1,14 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.hide {
+    display: none;
+}
